@@ -2,7 +2,7 @@
 
 require_once 'conexion.php';
 	// Inicio la sesión para tener acceso a $_SESSION en todos los archivos
-	session_start();
+	//session_start();
 
 	// Definimos las constantes que necesitamos en nuestro proyecto, de esta manera puedo usar las mismas dentro de las funciones sin tener que usar una variable global o pasarla por parámetro
 
